@@ -16,9 +16,9 @@ build = {
 type = 'none',
  install = {
         lua =  {
-            ['xsys._xsys'] = 'xsys/_xsys.lua',
-            ['xsys.config'] = 'xsys/config.lua',
-            ['xsys.init'] = 'xsys/init.lua'
+            ['xsys._xsys'] = '_xsys.lua',
+            ['xsys.config'] = 'config.lua',
+            ['xsys.init'] = 'init.lua'
         }
     }
 }
